@@ -1,6 +1,12 @@
 {
     "Virendra":123,
     "added":"one more line",
+<<<<<<< HEAD
     "added":"new line",
     "added":"part of newvirendra branch"
 }
+=======
+    "added":"new line"
+    "newline":1
+}
+>>>>>>> origin
